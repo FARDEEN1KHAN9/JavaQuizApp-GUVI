@@ -61,7 +61,7 @@ Use `quizdb.sql` to create and restore your database.
 ## 👤 Author/Admin
 
 * FARDEEN KHAN (24SECE1290012).
-* [https://github.com/FARDEEN1KHAN](https://github.com/FARDEEN1KHAN)
+* https://github.com/FARDEEN1KHAN9/JavaQuizApp-GUVI.git
 
 ---
 
